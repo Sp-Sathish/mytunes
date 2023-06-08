@@ -1,0 +1,305 @@
+*{
+    margin: 0;
+}
+#nav1{
+    border: 1px solid black;
+    display: flex;
+    height: 35px;
+    width: 100%;
+    background-color: #333333;
+    position: fixed;
+    top: 0px;
+    
+}
+.section{
+    width: 100px;
+    text-align: center;
+    padding-top: 5px;
+   
+}
+a{
+    color: #E2EEEE;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section:hover{
+    background-color: dimgray;
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+#div2{
+    border: 1px solid black; 
+    height: 100vh; 
+    background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/showcase.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    margin-top: 200px;
+    margin-left: 650px;
+    font-size: 64px;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+#heading2{
+    font-size: 32px;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 380px;
+}
+#para1{
+    font-size: 20.8px;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    margin-top: 35px;
+    margin-left: 180px;
+}
+#para2{
+    font-size: 20.8px;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    margin-left: 500px;
+}
+#div3{
+    border: 1px solid black;
+    background-color:#252529;
+    height: 1250px;
+    width: 100%;
+}
+#head{
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 700px;
+}
+#heading1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left:600px
+
+}
+#para3{
+    font-size: 20px;
+    font-weight:400;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:230px;
+    margin-top: 40px;
+}
+#para4{
+    font-size: 20px;
+    font-weight:400;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:220px;
+    margin-top:10px;
+}
+#para5{
+    font-size: 20px;
+    font-weight:400;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+
+
+#button1{
+    border: 1px solid black;
+    height: 60px;
+    width: 200px;
+    background-color: #B90415;
+    color: #FFFFFF;
+    font-size: 14px;
+    width: 400;
+    margin-left: 700px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    
+}
+#para6{
+    font-size: 16px;
+    font-weight:400;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 550px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#img1{
+    margin-left:150px
+}
+#div4{
+    width: 100%;
+    height: 1280px;
+    background-color: #FFFFFF;
+}
+#heading3{
+    font-size: 30px;
+    font-weight: 700px;
+    color: #33334C;
+    margin-top: 75px;
+    margin-left: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#para7{
+    font-size: 20px;
+    font-weight: 400;
+    padding:50px;
+    text-align:center;
+    line-height: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#button2{
+    width: 110px;
+    height: 55px;
+    color: #FFFFFF;
+    background-color: #103063;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: -35px;
+    margin-left: 700px;
+    cursor: pointer;
+}
+#img3{
+    margin-left: 170px;
+}
+
+
+#div5{
+    border: 1px solid black;
+    width: 100%;
+    height: 550px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg); 
+    height:550px;
+
+    background-repeat:no-repeat;
+    background-position: bottom;
+}
+#heading4{
+    font-size: 33px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    margin-top:200px;
+    margin-left: 400px;
+}
+#para8{
+    font-size: 21px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: center;
+    margin-top: 25px;
+    color: #FFFFFF;
+}
+#div6{
+    /* border: 1px solid black; */
+    height: 500px;
+    width: 100%;
+    display: flex;
+    background-color: #F4F4F4;
+}
+#heading5{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 50px;
+
+}
+#para9{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 26px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#para10{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-left: 30px;
+  
+}
+#line1{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#para11{
+   margin-left: 30px;
+   margin-top: 40px; 
+   cursor: pointer;
+}
+#para12{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#section1{
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+
+#div7{
+    border: 1px solid black;
+    height: 230px;
+    width: 100%;
+    display: flex;
+    background-color: #252529;
+}
+li{
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #C1CCCC;
+    margin-top: 20px;
+    line-height: 0px;
+    cursor: pointer;
+}
+.heading{
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-bottom: 10px;
+    box-shadow: 0px 1px 0px 0px;
+}
+.last_sec{
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 150px;
+   padding-bottom: 40px;
+   line-height: 0px;
+}
+
+
+#div8{
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #333333;
+    color: #E2EEEE;
+}
+
+
+
